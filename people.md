@@ -1,1 +1,3 @@
 Lermontov
+Pushkin
+Tolstoy
